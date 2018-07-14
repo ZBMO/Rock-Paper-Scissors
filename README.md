@@ -1,2 +1,2 @@
 # Rock-Paper-Scissors
-in Python 3
+# exercise in Python 3
